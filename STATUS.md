@@ -25,7 +25,7 @@ Ide: kalimat tech-support paling terkenal di dunia, disampaikan agen yang sudah 
 ## Repo & commit
 
 - Repo: https://github.com/rismzz/u-motasimfuad-have-you-tried-turning-it-off-154a938b
-- Commit final ter-push: **39153afe72050bfb2f0b95ce3827423b975fd1e7** (branch main, remote HEAD terverifikasi sama).
+- Commit entri: **39153afe72050bfb2f0b95ce3827423b975fd1e7** (kode + README + owner.json; STATUS.md ditambahkan di commit **f777643b2bbf6a490e927c4440e102eb3145178b**) (branch main, remote HEAD terverifikasi sama).
 - About terverifikasi: homepage https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b + topics makefun, ai-agents, bounties.
 - `.makefun/owner.json` sudah ada di entri: {"wallet":"GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux"}
 - README mengikuti template resmi (3 badge live make.fun + footer referral `?ref=aa4mcy45`); LICENSE MIT.
